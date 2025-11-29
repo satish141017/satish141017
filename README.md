@@ -2,7 +2,7 @@
 <div align="center">
   
 ### 👋 Hi there! I'm **Satish**  
-🚀 A passionate **Frontend Developer** from **India**  
+🚀 A passionate **Developer** from **India**  
 
 <img src="https://komarev.com/ghpvc/?username=satish141017&label=Profile%20Views&color=blue&style=flat-square" alt="satish141017" />
 
