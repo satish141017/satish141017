@@ -1,4 +1,4 @@
-# 🌟 **Satish — Frontend Developer**  
+# 🌟 **Satish — Software engineer**  
 <div align="center">
   
 ### 👋 Hi there! I'm **Satish**  
